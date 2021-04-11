@@ -1,5 +1,8 @@
 ﻿using System;
 
+// 추상팩토리 
+// 샘플2
+// ref : https://www.youtube.com/watch?v=soV1C6j9kkg&list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY&index=11
 namespace AbstFactoryPattern2
 {
     class Program
